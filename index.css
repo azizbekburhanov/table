@@ -1,0 +1,15 @@
+table {
+    border: 2px solid green;
+    margin-top: 160px; margin-left: 450px;
+    align-items: center;
+     box-shadow: 10px 5px 8px;
+}
+th {
+    border: 1px solid green;
+}
+td{
+    border: 1px solid green;
+}
+table, th, td {
+    border-collapse: collapse;
+}
